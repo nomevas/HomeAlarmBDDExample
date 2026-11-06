@@ -1,2 +1,2 @@
 # HomeAlarmBDDExample
-Using BDD for integration-level testing
+Using BDD on integration test level
